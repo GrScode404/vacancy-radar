@@ -1,0 +1,39 @@
+Company logo for, Globaldev Group.
+Globaldev Group
+
+
+Senior Python Engineer
+
+Armenia · 2 weeks ago · 96 people clicked apply
+
+Responses managed off LinkedIn
+
+Remote
+Full-time
+Apply
+
+
+About the job
+In this role, you will take full ownership of our core Django service, which acts as the main bridge between our algorithmic models and internal teams. You'll be responsible for API design, data modeling, cross-team data contracts, and maintaining high performance at scale. As part of the Algo Development team reporting to the Engineering Manager, you will also productionize research code and mentor a junior engineer. We are open to Senior and Staff levels, with the final title agreed upon during the process.
+
+Requirements
+
+ Bachelor's/Master's degree in Computer Science, Software Engineering, or equivalent hands-on experience
+ 7+ years of commercial software engineering experience with a primary focus on Python and running production-grade services (excluding internal tools, scripts, or prototype notebooks; Staff candidates are expected to have a longer track record)
+ Extensive production experience with Django and Django REST Framework (DRF), including shipping, scaling, and troubleshooting complex services (handling high-traffic ORM N+1 queries, transaction boundaries, migrations under load, and custom querysets)
+
+Responsibilities
+
+ Build & scale Django services: Design, deploy, and maintain high-load Django and Django REST Framework applications on PostgreSQL, ensuring clean data modeling, robust API design, and schema consistency across multiple domains
+ Optimize PostgreSQL & manage Auth: Analyze query execution plans, build effective indexes, and tune performance (including time-series via TimescaleDB and spatial queries via PostGIS). Implement enterprise authentication solutions: OAuth/OIDC, federated SSO, token validation, and identity provider integrations
+ Set up Wagtail CMS from scratch: Architect and build the partner and operator CMS ground-up, defining page models, structured content, media workflows, and the authoring interface
+ Productionize research & algorithms: Wrap research models into production microservices with strict data contracts, model versioning, reliable REST endpoints, and complete observability
+ Guide architecture & mentor: Lead code reviews, define foundational architecture patterns, and mentor a junior Python engineer to elevate team standards
+
+Benefits
+
+ 20 days of paid vacation, 5 sick days
+ Flexible schedule with a high level of autonomy
+ Opportunity to influence product and technical decisions
+ Professional growth and learning opportunities
+ Comfortable working environment with a supportive team

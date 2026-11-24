@@ -1,0 +1,21 @@
+The position is for a Senior Python Developer (Payments) at a well-funded B2C venture studio that develops and scales multiple subscription-based products.
+The role is 100% remote, full-time, with a flexible schedule aligned with the GMT+3 time zone.
+The main responsibilities include:
+Developing and maintaining the architecture and backend of the company's proprietary payment platform.
+Integrating international payment service providers (PSPs), acquirers, and payment orchestrators.
+Implementing payment routing, cascading, retry logic, and transaction optimization.
+Developing recurring payments, subscription billing, and rebilling processes.
+Managing the full card payment lifecycle, including authorization, capture, voids, refunds, disputes, and chargebacks.
+Implementing webhooks, idempotency, and payment reconciliation to ensure transaction accuracy and reliability.
+Developing APIs, internal services, payment analytics, monitoring, and alerts.
+Integrating tokenization, Apple Pay, Google Pay, and anti-fraud solutions.
+We're looking for someone with:
+At least 4 years of commercial Python backend development experience.
+At least 2 years of hands-on experience in payment infrastructure or payment-related development.
+Experience integrating multiple international PSPs, acquirers, or payment orchestrators.
+Strong knowledge of Python, FastAPI, PostgreSQL, Docker, and REST APIs.
+Practical experience with payment routing, cascading, retry logic, recurring payments, or subscription billing.
+Understanding of the full card payment lifecycle.
+
+Russian-speaking candidates are strongly preferred, as the company's primary working language is Russian. English proficiency of B1 or higher is also required.
+If this sounds aligned with your experience, I'd be happy to send you a quick screening questionnaire to discuss the opportunity further.

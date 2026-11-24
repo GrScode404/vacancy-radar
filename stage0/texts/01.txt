@@ -1,0 +1,52 @@
+Senior Software Engineer (JavaScript & Python)
+
+Yerevan, Armenia · 6 days ago · 91 applicants
+
+Promoted by hirer · Actively reviewing applicants
+
+Hybrid
+Full-time
+
+About the job
+About LineateLineate is a US-based international software development company with over two decades of experience.From Intelligent Document Processing(IDP) and Agentic RAG systems to scalable cloud architectures, we turn complex ideas into real, measurable results.We deliver AI-driven custom solutions for FinTech, HealthTech, AdTech, and beyond, empowering businesses to grow smarter, faster, and more efficiently.Our expertise falls into three main categories:
+Building Custom AI Solutions: Deploying high-impact, AI-enabled technology utilizing IDP, Agentic RAG.
+Cloud and Data Infrastructure: Optimizing business operations with our data management and cloud computing solutions.
+Team Augmentation: Providing specialized experts in FinTech, AdTech, and HealthTech to integrate seamlessly and accelerate project timelines.
+Our goal is not just to build technology, but to build the future operating model for our clients.
+
+Responsibilities
+Design, develop, and maintain scalable backend services and applications using JavaScript and Python.
+Build and optimize data processing pipelines and workflows using Apache Airflow.
+Develop and maintain search and data retrieval solutions using Elasticsearch.
+Design and implement APIs, integrations, and data processing services.
+Optimize application performance, reliability, and scalability.
+Troubleshoot complex technical issues and improve existing systems.
+Leverage AI-powered coding assistants and agentic development tools to accelerate development, testing, and debugging.
+Participate in architectural decisions, code reviews, and technical planning.
+Collaborate with cross-functional engineering and product teams.
+
+Requirements
+6+ years of professional software engineering experience.
+Strong hands-on experience with JavaScript and backend development.
+Strong proficiency in Python.
+Practical production experience with Elasticsearch, including indexing, querying, performance optimization, and troubleshooting.
+Hands-on experience with Apache Airflow, including DAG development, workflow orchestration, and monitoring.
+Experience designing and developing scalable backend systems and REST APIs.
+Solid understanding of databases, data structures, and distributed systems.
+Experience with data processing, ETL/ELT pipelines, and system integrations.
+Practical experience with agentic development tools and AI-assisted software engineering workflows, including using AI agents for coding, debugging, testing, or refactoring.
+Strong problem-solving skills and the ability to work independently.
+Good communication skills and proficiency in English.
+
+We offer
+Freedom to Develop - equal opportunity to learn and grow professionally
+Clear career and professional path, strong performance management system
+Social Benefits Package
+Equipment
+English lesson
+Gym membership
+All the advantages of working in an international IT company
+Flexible vacation time
+Fun and inclusive in-person and digital events
+
+Lineate is proud to be an Equal Opportunity Employer - We do not hire on the basis of race, colour, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by Georgian legislation. All employment is decided based on qualifications, merit, and business need. Learn more about Lineate at our website: www.lineate.com

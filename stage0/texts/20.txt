@@ -1,0 +1,37 @@
+Сергей, спасибо за ваш ответ) рада знакомству, суть предложения такова: наши клиенты расширяют частенько команды и просят нас усилить их инженерами, доступными фултайм. В свою очередь, мы выбираем толковых ребят на подряд и после раунда собеседований предлагаем их своим клиентам. Три необходимых критерия: высокий уровень профессиональный (от senior, lead), разговорный английский (от B2) и доступность фултайм (быть на связи в рабочие часы и ходить на митинги с клиентом/командой). Рейты зависят от позиции, на которую собеседуется кандидат. Вы работаете с нами по В2В схеме (как ИП по договору подряда/инкубатор/можно юр лицо, если есть). Сотрудничество непрерывное, заканчивается один проект, наш отдел продаж подбирает вам новый)
+- вы сами строите свое расписание (у нас нет систем слежения, скринов экранов - мы доверяем нашим ребятам)
+- рейт не фиксируется, зависит от клиента и проекта
+- непрерывное сотрудничество - вам не нужно самому искать проекты, наш отдел продаж подберет новый к тому времени, как закончится старый проект
+- оплата каждый месяц вне зависимости от того, через сколько платит клиент
+- все организационные, спорные вопросы с заказчиком решаем мы
+
+Проекты у нас бывают разные, когда мы будем сотрудничать, то подбирать их будем под ваш стек
+Как вариант, может быть такой проект:
+🧩 Project Description: The BI Analytics team develops internal analytics products powered by LLM agents.The initial scope includes a natural-language data assistant and a service for generating management presentations with AI-driven insights.
+
+🤝 Soft Skills:
+• Proactive approach
+• Ability to work independently
+
+💡 Hard Skills / Must Have:
+• Russian language is a must
+• 5+ years of commercial Python backend development
+• Production experience with LLM agents, tool use, MCP, evaluations, and LLM APIs or agent frameworks
+• Strong SQL and cloud DWH experience, preferably BigQuery
+• OAuth, IAM, Docker, and CI/CD
+• Daily use of coding agents and ability to review their output
+
+✨ Hard Skills / Nice to Have:
+• BigQuery and GCP
+• Claude Agent SDK, Anthropic API, or Strands Agents
+• React
+
+📌 Responsibilities and Tasks:
+• Build product features from prototype to production
+• Develop AI agents and web services for internal analytics use cases
+• Integrate agents with data sources and internal systems
+• Set up user access, authorization, cloud deployment, and service maintenance
+• Build evaluations and monitoring for LLM components
+• Fix defects and improve solutions based on user feedback
+
+🧪 Technology Stack: Python, Strong SQL, experience with a cloud DWH (BigQuery preferred), Docker, CI/CD, AI tools

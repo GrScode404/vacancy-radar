@@ -1,0 +1,57 @@
+Backend / Data Engineer для sports data platform
+Мы строим sports data backend для мобильного и web-продукта: live-матчи, турниры, сезоны, команды, игроки, статистика, матч-центр и история по разным видам спорта.
+Наша задача — собирать данные из внешних источников вроде Sofascore, FotMob, ESPN и аналогов, сохранять raw snapshots, нормализовать их в собственную модель и отдавать стабильный API фронту. Внутри источники могут меняться, но frontend не должен ломаться.
+## Что нужно делать
+- Развивать backend на Python для сбора, обработки и отдачи спортивных данных.
+- Разбирать внешние источники данных: API, network requests, payload structure, web/mobile поведение.
+- Строить ETL-процессы: raw response → normalized tables → public API.
+- Проектировать каноническую модель данных: sport, category, tournament, season, event, team, player, manager, statistics, incidents, lineups, live state.
+- Поддерживать live polling: свежесть данных, retries, backoff, queues, freshness monitoring.
+- Делать backfill истории: сезоны, турниры, матчи, статистика, coverage tracking.
+- Оптимизировать PostgreSQL-запросы, индексы, кэширование и API latency.
+- Проектировать систему так, чтобы можно было подключать новые источники и fallback-логику без переделки фронта.
+- Использовать AI-инструменты как рабочий ускоритель: анализ кода, генерация тестов, документация, reverse engineering, refactoring.
+Что важно
+- Уверенный Python backend experience.
+- Опыт с FastAPI/Django или похожими backend-фреймворками.
+- PostgreSQL: схемы, индексы, EXPLAIN, оптимизация запросов.
+- Redis/queues/workers/cron-like jobs.
+- Понимание ETL и работы с raw JSON/payload snapshots.
+- Умение читать чужие API и быстро понимать структуру данных.
+- Самостоятельность: не просто “сделать ручку”, а понять, почему данные не появились, где сломался pipeline и как сделать устойчивее.
+Будет большим плюсом
+- Опыт со спортивными источниками: Sofascore, FotMob, ESPN, Flashscore, API-Football, Sportradar.
+- Опыт reverse engineering web/mobile API.
+- Опыт live-score, betting, fantasy, market data или похожих realtime-проектов.
+- Опыт с Docker, CI/CD, monitoring, alerts.
+- Опыт проектирования multi-source модели данных и fallback между источниками.
+Используемый стек
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Workers / queues
+- Docker / Linux
+- Raw snapshots + normalized storage
+- Swagger/OpenAPI
+- Monitoring / health checks
+Какая задача будет первой
+Скорее всего, первое направление — разобраться в текущем pipeline спортивных данных:
+- как live-матчи попадают в систему;
+- почему часть матчей или матч-центров может не обновляться;
+- какие endpoints источника доступны в разных статусах матча;
+- как улучшить backfill истории по турнирам и сезонам;
+- как сделать API быстрее и стабильнее для frontend.
+Кого мы ищем
+Нам нужен сильный самостоятельный backend/data engineer, которому интересно строить не просто CRUD API, а систему сбора и нормализации данных.
+Важно, чтобы человек умел:
+- копать источник данных;
+- проверять гипотезы;
+- писать аккуратный production-код;
+- оставлять понятную документацию;
+- думать о стабильности, мониторинге и будущем расширении системы.
+Условия
+- Удалённая работа.
+- Оклад + бонусы.
+- Формат обсуждается: full-time / part-time / project-based.
+1000-1500$ оклад-полный день+бонусы

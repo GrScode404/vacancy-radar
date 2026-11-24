@@ -1,0 +1,74 @@
+Senior Software Engineer
+
+Yerevan, Yerevan, Armenia · 4 days ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+On-site
+Full-time
+Apply
+
+About the job
+About the teamToday, TUMO operates in more than 20 plus centers worldwide - from Los Angeles to Takasaki, from Buenos Aires to Mumbai, Paris, Amsterdam, Berlin, Lisbon, and many more, with new locations constantly joining.The Product Engineering department at TUMO is responsible for building and evolving the digital ecosystem that powers the TUMO learning experience. The team develops and maintains the core student, staff, and administrative platforms that support self-directed learning, workshop and lab management, performance tracking, content delivery, registration, and day-to-day center operations. Our engineers are not only building software - they are shaping an educational platform that helps students learn design, technology, and science in a way that is hands-on, self-directed, and inspiring.The team focuses on scalable software development, system integration, user experience, and platform reliability to ensure seamless learning and operational efficiency across all centers. We design platforms as multi-tenant systems that can be localized in language, configuration, and infrastructure. Thanks to this architecture, opening a new center is a matter of configuring a new instance, often just a few clicks with automated setup. Once deployed, all features automatically become available for the new TUMO center. About the roleWe are looking for a creative, open-minded engineer who learns fast, enjoys bold ideas and modern technologies, and takes full ownership of what they deliver. TUMO is growing fast in Armenia and internationally, and this role helps shape the platform behind that growth.You’ll join a cross-functional team of engineers, product managers, designers, QA, and support specialists who value curiosity, honest feedback, and people who think differently.In this role, you will contribute to strengthening and expanding the technology infrastructure that enables personalized learning at scale and supports TUMO’s continued growth Responsibilities
+Architecture and Technical Direction: Own the design and evolution of services and APIs, make well-reasoned technical decisions, evaluate trade-offs, and document key architectural choices. Ensure technical decisions align with organizational objectives and long-term priorities.
+
+AI Engineering: Build AI-powered automations and agent workflows that improve how the team designs, builds, tests, and operates software. Integrate AI tools into daily engineering practices while maintaining sound technical judgment, accountability, and quality standards.
+
+Innovation and Continuous Improvement: Identify opportunities for innovation, challenge existing assumptions, evaluate emerging technologies, and translate promising ideas into practical solutions. Proactively suggest initiatives that improve engineering processes and overall team productivity.
+
+Platform Modernization: Lead the incremental migration of legacy systems towards a modern, service-oriented architecture, developing realistic implementation plans, anticipating potential challenges, and ensuring continuity of live operations.
+
+Security and Privacy by Design: Embed security, privacy, GDPR requirements, and student data protection into system architecture and development processes. Identify potential risks and vulnerabilities, take ownership of their timely remediation, and ensure compliance with organizational values and standards.
+
+Reliability and Operations: Ensure services remain observable, performant, and resilient. Take ownership of investigating and resolving production issues, proactively communicate risks and progress, and coordinate appropriate solutions to minimize operational impact.
+
+Engineering Excellence and Quality Assurance: Establish and promote high standards for code quality, testing, code reviews, and CI/CD practices. Introduce improvements that strengthen quality control, encourage early identification and resolution of errors, and ensure the reliability of the team's output.
+
+Technical Leadership and Team Development: Mentor engineers, review technical designs, and actively contribute to strengthening the team's technical expertise. Foster knowledge-sharing, support colleagues in overcoming technical challenges, and promote a culture of continuous learning and shared responsibility.
+
+Planning, Ownership, and Execution: Independently manage complex technical initiatives from planning through implementation and delivery. Define clear priorities, anticipate potential obstacles, monitor progress, and provide timely updates to relevant stakeholders, ensuring alignment and accountability throughout the process.
+
+Cross-functional Partnership: Work closely with product, design, QA, support, and center teams to understand needs, shape technical solutions, and ensure successful implementation. Encourage open dialogue, collaborative decision-making, and transparent communication while building relationships based on mutual understanding and accountability.
+
+RequirementsWho you are
+Creative and open-minded: you think differently, bring new ideas, and aren't afraid to try bold approaches and modern technologies.
+
+Fast learner: you pick up new languages, tools, and domains quickly and enjoy doing it.
+
+Resilient: you stay focused and effective when the workload is high, or priorities change.
+
+Accountable: you own the code you deliver, from first commit to production.
+
+Reliable: you give realistic estimates, meet deadlines, and raise concerns early and openly.
+
+Motivated: you enjoy your work day to day and care about the TUMO mission (we will pitch you!).
+
+ What you bring
+Experience: 5+ years of professional software engineering, building and running production systems.
+
+Core skills: strong experience with at least one modern, typed programming language, and solid knowledge of databases, system design, and API design.
+
+Tech stack: production experience with a structured server-side framework, REST API design and authentication (OAuth, JWT), MongoDB or another production database, Docker, Git and CI/CD, and service monitoring; ability to read and understand legacy code.
+
+AI engineering: hands-on experience using AI coding tools in daily work and building automations or agent workflows, with the expertise to review, validate and own what they produce.
+
+Evolving existing systems: experience improving and gradually replacing large, existing codebases.
+
+Quality: clean, tested, and secure code, and constructive code reviews.
+
+English: good spoken and written English, with clear writing for documentation, code reviews and technical discussions.
+
+Nice to have: Node.js, TypeScript, NestJS, Vue.js, Go, Python, Kubernetes, cloud platforms (Azure or Google Cloud), and event-driven or microservice architectures.
+
+ Benefits - What we offer
+Remote Wednesdays
+
+Health insurance and a discount on travel insurance
+
+Assistance with a work permit and opening a bank account if needed
+
+Extra New Year paid holidays: 3rd, 4th and 5th of January
+
+5 days of personal leave
+
+Birthday leave

@@ -1,0 +1,134 @@
+Senior Python Engineer (AI Builder)
+
+Armenia · 1 week ago · Over 100 people clicked apply
+
+Responses managed off LinkedIn
+
+Remote
+Full-time
+Apply
+
+Save
+Your profile and resume match some required qualifications
+
+
+
+Show match details
+
+BETA • Is this information helpful?
+
+
+Get personalized tips to stand out to hirers
+
+Find jobs where you’re a top applicant and tailor your resume with the help of Premium.
+
+Activate Premium for €0
+
+About the job
+instinctools is a software development company that provides custom software solutions for businesses of all sizes. Our team works closely with clients to understand their specific needs and provide personalized solutions that meet their business requirements.
+instinctools is looking for a Senior Python Developer (LLM Agents & Data) for one of our clients.
+
+Locations: Europe, Kazakhstan, Georgia, Armenia
+
+Work mode: Fully remote, full-time
+
+Time zone: CET
+
+Duration: Long-term cooperation, extended in 4-month periods based on the client’s confirmation
+
+Client: A global mobility and urban services platform that offers ride-hailing, delivery and other everyday services to users in dozens of countries.
+
+The Project
+
+We are looking for a developer who understands what users need, builds it with AI and makes sure people actually use it.
+
+You Will Join The Client’s BI Analytics Team, Which Builds Internal Analytics Products Powered By LLM Agents For Company Employees. There Are Two Products To Start With
+
+An AI agent that answers natural-language questions about data (Python, LLM APIs and MCP, data from BigQuery, deployed on GCP)
+A service that assembles management presentations from prepared data, with LLM-generated text insights (web service with a Python and Postgres backend and a React frontend, data from BigQuery)
+
+The role is hands-on: you write code every day and ship working services that colleagues across the company use.
+
+The core of the work is backend, integrations and infrastructure, with frontend as a smaller part. The team builds on top of existing LLM APIs and does not train models.
+
+Tech stack: Python, LLM APIs and MCP, BigQuery, GCP, Postgres, React (frontend), Docker, CI/CD, Google Workspace and Slack integrations, AI tools
+
+What You Will Get Hands-on With
+
+Talking to the colleagues who use the products, deciding together what to build next and tracking how the products are used
+Building LLM agents that answer natural-language questions about company data, using Python, LLM APIs and MCP
+Giving agents tools to work with BigQuery, Google Workspace and Slack
+Developing a web service that turns prepared data into management presentations with LLM-generated text insights (Python and Postgres backend, React frontend)
+Designing evals and monitoring that show how good the answers of LLM components are
+Setting up user access (OAuth, IAM) and deploying services on GCP with Docker and CI/CD
+Working with AI coding agents such as Claude Code, Cursor and Codex as part of your daily workflow
+
+Responsibilities And Tasks
+
+Work with the employees who use the products to understand what they need, and take features from idea and prototype to production
+Connect LLM agents to data and internal systems: agent tools and integrations with BigQuery, Google Workspace and Slack
+Set up user access and authorization, deploy and maintain services in the cloud
+Build evals and monitoring for LLM components, track how the products are used, fix bugs and iterate on user feedback
+
+Our Expectations Of The Candidate
+
+6+ years of total engineering experience, including 4+ years of commercial backend development in Python
+Experience with Docker and CI/CD
+
+Experience We Value Most (you Do Not Need To Tick Every Box, But The More Of These You Can Show From Your Own Work, The Better)
+
+First-hand experience talking to users and deciding what to build
+Knowledge of your product’s numbers: how many people use it and what changed for them
+An AI feature that people use in production, with quality checks (evals) on its answers
+Daily coding with an AI assistant (Claude Code, Cursor, Codex) and careful review of what it writes
+Python, SQL, a cloud data warehouse and user access management (OAuth, IAM)
+
+English proficiency: B1+
+
+Nice To Have
+
+BigQuery and GCP
+Claude Agent SDK / Anthropic API / Strands Agents
+React
+
+Soft Skills
+
+Proactive and independent: once the task is clear, you find the solution yourself
+User-oriented: you talk to the people who use the product and decide what to build
+Product mindset: you track how the product is used and what changed for its users
+Ownership: you take a feature from idea to real adoption
+
+We Offer
+
+Fully remote work in the CET time zone
+Partial compensation for health insurance, sports activities and language courses
+Paid vacation days can be included in your B2B contract
+A strong engineering culture: attention to code quality, solid engineering practices and safe, incremental changes
+Ownership of products from idea to real adoption, with direct feedback from the company employees who use them
+Autonomy: freedom to choose how to solve tasks and to propose and explore alternative technical solutions.
+A calm and friendly atmosphere: lightweight processes and planning that avoids constant overload. Urgent tasks are solved quickly, without permanent rush
+Opportunities to speak at company meetups and conferences and to grow professional communities
+
+Join us and be part of a team that is changing the world through technology!
+
+Important Notice Regarding Your Personal Data Security
+
+At *instinctools, We Take The Security Of Your Personal Data Very Seriously. Please Be Informed That All Official Communication, Offers, And Correspondence From *instinctools Are Conducted Only Through Our Verified Company Resources, Including
+
+Official Email Domain: @instinctools.com
+
+Company Website: https://www.instinctools.com
+
+Important Reminder
+
+instinctools will NEVER ask for sensitive personal or financial information, including: – Bank account details – Credit/debit card numbers – Passwords or PINs
+
+If You Receive Any Suspicious Requests Claiming To Be From *instinctools Via Unofficial Channels (e.g., Personal Emails, Social Media DMs, Or Phone Calls), Please
+
+– Do not respond or share any information.
+
+– Report it immediately to our official contacts.
+
+Your trust and security are our top priorities. For any questions, always verify through our official channels.
+
+Thank you for your attention and cooperation.
