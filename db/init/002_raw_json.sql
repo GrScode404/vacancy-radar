@@ -1,0 +1,1 @@
+ALTER TABLE raw_vacancies ADD COLUMN IF NOT EXISTS raw_json jsonb;
