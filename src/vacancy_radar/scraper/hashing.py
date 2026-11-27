@@ -1,19 +1,19 @@
 import hashlib
 import unicodedata
 
-_HASH_TRANSLATION = str.maketrans(
-    {
-        # невидимые: пробел нулевой ширины, ZWNJ, ZWJ, word joiner, BOM, мягкий перенос
-        **dict.fromkeys(map(ord, "\u200b\u200c\u200d\u2060\ufeff\xad"), None),
-        # тире и дефисы → обычный дефис
-        **dict.fromkeys(map(ord, "\u2010\u2012\u2013\u2014\u2015\u2212"), "-"),
-        # двойные кавычки → "
-        **dict.fromkeys(map(ord, "«»„“”‟"), '"'),
-        # одинарные кавычки и апостроф → '
-        **dict.fromkeys(map(ord, "‘’‚‛"), "'"),
-        "ё": "е",
-    }
-)
+# Ключ — один символ, значение — замена (None = удалить символ).
+_HASH_REPLACEMENTS: dict[str, str | None] = {
+    # невидимые: пробел нулевой ширины, ZWNJ, ZWJ, word joiner, BOM, мягкий перенос
+    **dict.fromkeys("\u200b\u200c\u200d\u2060\ufeff\xad", None),
+    # тире и дефисы → обычный дефис
+    **dict.fromkeys("\u2010\u2012\u2013\u2014\u2015\u2212", "-"),
+    # двойные кавычки → "
+    **dict.fromkeys("«»„“”‟", '"'),
+    # одинарные кавычки и апостроф → '
+    **dict.fromkeys("‘’‚‛", "'"),
+    "ё": "е",
+}
+_HASH_TRANSLATION = str.maketrans(_HASH_REPLACEMENTS)
 
 
 def normalize_for_hash(text: str) -> str:

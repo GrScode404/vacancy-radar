@@ -4,6 +4,7 @@ import json
 import logging
 import re
 from typing import Any
+from urllib.parse import urlsplit
 
 from bs4 import BeautifulSoup
 
@@ -11,6 +12,7 @@ JobPosting = dict[str, Any]
 
 logger = logging.getLogger(__name__)
 
+_HABR_HOST = "career.habr.com"
 _BLOCK_TAGS = ("p", "li", "h1", "h2", "h3", "h4", "h5", "h6")
 _WHITESPACE = re.compile(r"\s+")
 _CURRENCY_ALIASES = {"RUR": "RUB"}  # RUR — устаревший код рубля
@@ -154,3 +156,30 @@ def build_raw_text(posting: JobPosting) -> str | None:
     if salary := _salary(posting):
         header.append(salary)
     return "\n".join(header) + "\n\n" + body
+
+
+def external_id_from_url(url: str) -> str | None:
+    """Id вакансии из URL вида https://career.habr.com/vacancies/<цифры>, иначе None."""
+    parts = urlsplit(url.strip())
+    if parts.scheme not in ("http", "https") or parts.hostname != _HABR_HOST:
+        return None
+
+    segments = [s for s in parts.path.split("/") if s]
+    if len(segments) != 2 or segments[0] != "vacancies":
+        return None
+
+    vacancy_id = segments[1]
+    if not (vacancy_id.isascii() and vacancy_id.isdigit()):
+        return None
+    return vacancy_id
+
+
+def posting_identifier(posting: JobPosting) -> str | None:
+    """identifier.value из JSON-LD как строка, иначе None."""
+    identifier = posting.get("identifier")
+    if not isinstance(identifier, dict):
+        return None
+    value = identifier.get("value")
+    if isinstance(value, bool) or not isinstance(value, (str, int)):
+        return None
+    return str(value).strip() or None
