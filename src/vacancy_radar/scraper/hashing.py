@@ -1,3 +1,5 @@
+"""Нормализация и хеш raw_text для дедупликации."""
+
 import hashlib
 import unicodedata
 
